@@ -57,6 +57,7 @@ h1 {
 
 .mini-info-content p {
     width: 212.4px;
+    margin-bottom: 15px;
 }
 
 .mini-info-img {
@@ -245,6 +246,7 @@ h1 {
 .bg-grey {
     background-color: #EFEFEF;
     margin-bottom: 0;
+    padding-top: 40px;
 }
 
 .quote2 {
