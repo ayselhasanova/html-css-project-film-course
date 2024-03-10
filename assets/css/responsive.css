@@ -1,9 +1,3 @@
-/* QEYD: 
-Desktop - ekran ölçüsü 1280px-dən çox;
-tablet- ekran ölçüsü 992px-dən 1279px-ə qədər ;
-smartfon - ekran ölçüsü 320px-dən 991px-ə qədər. */
-
-
 @media (min-width: 865px) {
 
     header,
