@@ -1,5 +1,3 @@
-# html-css-project-film-course
-
-<h1> You can see project there: </h1>
+# You can see project there:
 https://filmcourse.netlify.app/
 
